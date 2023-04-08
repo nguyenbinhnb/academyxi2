@@ -1,0 +1,14 @@
+{ "ga_and_gtm":[
+  {
+    "script": "https://www.googletagmanager.com/gtm.js?id=GTM-TW5MRQC"
+  },
+  {
+    "script": "https://www.gstatic.com/wcm/loader.js"
+  },
+  {
+    "script": "https://www.google-analytics.com/analytics.js"
+  }
+  ]
+}
+
+

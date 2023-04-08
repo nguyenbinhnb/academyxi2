@@ -1,0 +1,99 @@
+04/08/2023 10:48:49 PM WDM INFO:====== WebDriver manager ======
+04/08/2023 10:48:49 PM WDM INFO:Get LATEST chromedriver version for google-chrome None
+04/08/2023 10:48:49 PM WDM INFO:Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win32\112.0.5615\chromedriver.exe] found in cache
+04/08/2023 10:48:50 PM root INFO:Test_001_validate_prices_on_data_analytics_transform_part_time_page
+04/08/2023 10:48:57 PM root INFO:Verify prices are present
+04/08/2023 10:48:57 PM root INFO:https://academyxi.com/online-courses/data-analytics/transform-part-time/
+04/08/2023 10:48:57 PM root INFO:The original price = $12,500
+04/08/2023 10:48:57 PM root INFO:The discounted price = $11,250
+04/08/2023 10:48:57 PM root INFO:Test_002_validate_prices_on_ux_ui_design_transform_full_time_page
+04/08/2023 10:49:03 PM root INFO:Verify prices are present
+04/08/2023 10:49:03 PM root INFO:https://academyxi.com/online-courses/ux-ui-design/transform-full-time/
+04/08/2023 10:49:03 PM root INFO:Test_003_validate_prices_on_ux_ui_design_transform_part_time_page
+04/08/2023 10:49:07 PM root INFO:Verify prices are present
+04/08/2023 10:49:07 PM root INFO:https://academyxi.com/online-courses/ux-ui-design/transform-part-time/
+04/08/2023 10:49:07 PM root INFO:Test_004_validate_prices_on_ux_ui_design_elevate_self_paced_page
+04/08/2023 10:49:11 PM root INFO:Verify prices are present
+04/08/2023 10:49:11 PM root INFO:https://academyxi.com/online-courses/ux-ui-design/elevate-self-paced/
+04/08/2023 10:49:11 PM root INFO:The original price = $3,500
+04/08/2023 10:49:11 PM root INFO:The discounted price = $2,625
+04/08/2023 10:49:11 PM root INFO:Test_005_validate_prices_on_data_analytics_self_paced_elevate_page
+04/08/2023 10:49:13 PM root INFO:Verify prices are present
+04/08/2023 10:49:13 PM root INFO:https://academyxi.com/online-courses/data-analytics/data-analytics-self-paced-elevate/
+04/08/2023 10:49:13 PM root INFO:The original price = $3,500
+04/08/2023 10:49:13 PM root INFO:The discounted price = $2,625
+04/08/2023 10:49:14 PM root INFO:Test_006_validate_prices_on_front_end_web_development_transform_part_time_page
+04/08/2023 10:49:16 PM root INFO:Verify prices are present
+04/08/2023 10:49:16 PM root INFO:https://academyxi.com/online-courses/front-end-web-development/transform-part-time/
+04/08/2023 10:49:16 PM root INFO:The original price = $10,150
+04/08/2023 10:49:16 PM root INFO:The discounted price = $9,135
+04/08/2023 10:49:16 PM root INFO:Test_007_validate_prices_on_software_engineering_transform_full_time_page
+04/08/2023 10:49:17 PM root INFO:Verify prices are present
+04/08/2023 10:49:17 PM root INFO:https://academyxi.com/online-courses/software-engineering/transform-full-time/
+04/08/2023 10:49:17 PM root INFO:The original price = $14,500
+04/08/2023 10:49:17 PM root INFO:The discounted price = $13,050
+04/08/2023 10:49:17 PM root INFO:Test_008_validate_prices_on_software_engineering_transform_part_time_page
+04/08/2023 10:49:19 PM root INFO:Verify prices are present
+04/08/2023 10:49:19 PM root INFO:https://academyxi.com/online-courses/software-engineering/transform-part-time/
+04/08/2023 10:49:19 PM root INFO:The original price = $14,500
+04/08/2023 10:49:19 PM root INFO:The discounted price = $13,050
+04/08/2023 10:49:19 PM root INFO:Test_009_validate_prices_on_graphic_design_transform_part_time_page
+04/08/2023 10:49:27 PM root INFO:Verify prices are present
+04/08/2023 10:49:27 PM root INFO:https://academyxi.com/online-courses/graphic-design/transform-part-time/
+04/08/2023 10:49:27 PM root INFO:The original price = $12,000
+04/08/2023 10:49:27 PM root INFO:The discounted price = $10,800
+04/08/2023 10:49:27 PM root INFO:Test_010_validate_prices_on_graphic_design_elevate_self_paced_page
+04/08/2023 10:49:29 PM root INFO:Verify prices are present
+04/08/2023 10:49:29 PM root INFO:https://academyxi.com/online-courses/graphic-design/elevate-self-paced/
+04/08/2023 10:49:29 PM root INFO:The original price = $3,500
+04/08/2023 10:49:29 PM root INFO:The discounted price = $2,625
+04/08/2023 10:49:29 PM root INFO:Test_011_validate_prices_on_cyber_security_transform_part_time_page
+04/08/2023 10:49:32 PM root INFO:Verify prices are present
+04/08/2023 10:49:32 PM root INFO:https://academyxi.com/online-courses/cyber-security/transform-part-time/
+04/08/2023 10:49:32 PM root INFO:The original price = $14,500
+04/08/2023 10:49:32 PM root INFO:The discounted price = $13,050
+04/08/2023 10:49:32 PM root INFO:Test_012_validate_prices_on_product_management_transform_part_time_page
+04/08/2023 10:49:34 PM root INFO:Verify prices are present
+04/08/2023 10:49:34 PM root INFO:https://academyxi.com/online-courses/product-management/transform-part-time/
+04/08/2023 10:49:34 PM root INFO:The original price = $12,500
+04/08/2023 10:49:34 PM root INFO:The discounted price = $11,250
+04/08/2023 10:49:34 PM root INFO:Test_013_validate_prices_on_product_management_elevate_self_paced_page
+04/08/2023 10:49:35 PM root INFO:Verify prices are present
+04/08/2023 10:49:35 PM root INFO:https://academyxi.com/online-courses/product-management/elevate-self-paced/
+04/08/2023 10:49:35 PM root INFO:The original price = $3,500
+04/08/2023 10:49:35 PM root INFO:The discounted price = $2,625
+04/08/2023 10:49:35 PM root INFO:Test_014_validate_prices_on_service_design_elevate_self_paced_page
+04/08/2023 10:49:37 PM root INFO:Verify prices are present
+04/08/2023 10:49:37 PM root INFO:https://academyxi.com/online-courses/service-design/elevate-self-paced/
+04/08/2023 10:49:37 PM root INFO:The original price = $3,500
+04/08/2023 10:49:37 PM root INFO:The discounted price = $2,625
+04/08/2023 10:49:37 PM root INFO:Test_015_validate_prices_on_design_thinking_elevate_self_paced_page
+04/08/2023 10:49:39 PM root INFO:Verify prices are present
+04/08/2023 10:49:39 PM root INFO:https://academyxi.com/online-courses/design-thinking/elevate-self-paced/
+04/08/2023 10:49:39 PM root INFO:The original price = $3,500
+04/08/2023 10:49:39 PM root INFO:The discounted price = $2,625
+04/08/2023 10:49:39 PM root INFO:Test_016_validate_prices_on_customer_experience_elevate_self_paced_page
+04/08/2023 10:49:41 PM root INFO:Verify prices are present
+04/08/2023 10:49:41 PM root INFO:https://academyxi.com/online-courses/customer-experience/elevate-self-paced/
+04/08/2023 10:49:41 PM root INFO:The original price = $3,500
+04/08/2023 10:49:41 PM root INFO:The discounted price = $2,625
+04/08/2023 10:49:41 PM root INFO:Test_017_validate_prices_on_social_media_marketing_elevate_self_paced_page
+04/08/2023 10:49:42 PM root INFO:Verify prices are present
+04/08/2023 10:49:42 PM root INFO:https://academyxi.com/online-courses/social-media-marketing/elevate-self-paced/
+04/08/2023 10:49:42 PM root INFO:The original price = $3,500
+04/08/2023 10:49:42 PM root INFO:The discounted price = $2,625
+04/08/2023 10:49:42 PM root INFO:Test_018_validate_prices_on_digital_marketing_transform_part_time_page
+04/08/2023 10:49:44 PM root INFO:Verify prices are present
+04/08/2023 10:49:44 PM root INFO:https://academyxi.com/online-courses/digital-marketing/transform-part-time/
+04/08/2023 10:49:44 PM root INFO:The original price = $12,000
+04/08/2023 10:49:44 PM root INFO:The discounted price = $10,800
+04/08/2023 10:49:44 PM root INFO:Test_019_validate_prices_on_digital_marketing_elevate_self_paced_page
+04/08/2023 10:49:46 PM root INFO:Verify prices are present
+04/08/2023 10:49:46 PM root INFO:https://academyxi.com/online-courses/digital-marketing/elevate-self-paced/
+04/08/2023 10:49:46 PM root INFO:The original price = $3,500
+04/08/2023 10:49:46 PM root INFO:The discounted price = $2,625
+04/08/2023 10:49:46 PM root INFO:Test_020_validate_prices_on_digital_project_management_elevate_self_paced_page
+04/08/2023 10:49:47 PM root INFO:Verify prices are present
+04/08/2023 10:49:47 PM root INFO:https://academyxi.com/online-courses/digital-project-management/elevate-self-paced/
+04/08/2023 10:49:47 PM root INFO:The original price = $3,500
+04/08/2023 10:49:47 PM root INFO:The discounted price = $2,625
